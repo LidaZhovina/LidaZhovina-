@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 Обо мне
 
-- 🎓 Окончила колледж судостроения, информационных и прикладных технологий по специальности «Информационные системы и программирование»
+- 🎓 Окончила колледж «Судостроения, Информационных и Прикладных технологий» по специальности «Информационные системы и программирование»
 - 🖥️ Пишу на PHP (Yii2), верстаю на Bootstrap 5 / Tailwind CSS
 - 📜 Прошла курс JavaScript от Минцифры «Код будущего»
 - 🚀 В процессе — Java + Kotlin
@@ -19,9 +19,6 @@
 ## 🛠 Стек
 
 ![skills](https://skillicons.dev/icons?i=php,js,mysql,bootstrap,tailwind,git,github,html,css,jquery,vscode)
-![Yii2](https://img.shields.io/badge/Yii2-white?style=for-the-badge&logo=yii&logoColor=black&color=black)
-
-**IDE:** VS Code
 
 ## 🚀 Главный проект
 
